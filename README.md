@@ -37,7 +37,7 @@ vvp led_tb
 
 ## 3. 查看波形
 
-使用 GTKWave 打开生成的 VCD 文件[波形图](./波形图)：
+使用 GTKWave 打开生成的 VCD 文件[波形图.png](./波形图.png)：
 
 ```bash
 gtkwave led.vcd
